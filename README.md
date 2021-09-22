@@ -6,7 +6,7 @@ You are required to use React Navigation for navigating between screens and you 
 
 When finished please push the code to a public Github repository and share the URL of the repo.
 
-Please avoid using any UI library. You can use our hosted API please import the collection of endpoints into postman using this [URL](https://www.getpostman.com/collections/0bf6bd07034669df5654 "Named link title")
+Please avoid using any UI library. You can use our hosted API please import the collection of endpoints into postman using this [URL](https://www.getpostman.com/collections/0bf6bd07034669df5654 "URL")
 
 There will be 7 screens in total: Splash Screen, Welcome screen (for guest users), login, register, ToDos list, create new ToDo, view/update ToDo
 
