@@ -1,0 +1,5 @@
+
+export const SIGNUP_SUCCSESS='SIGNUP_SUCCSESS';
+export const SIGNUP_LOAD='SIGNUP_LOAD';
+export const SIGNUP_FAILED='SIGNUP_FAILED';
+
